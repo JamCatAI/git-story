@@ -1,0 +1,7 @@
+requests
+anthropic
+openai
+python-dotenv
+rich
+google-genai
+groq
